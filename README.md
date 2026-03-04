@@ -28,6 +28,7 @@ I'm the creator of [FYNN](https://github.com/ApuroopM1/fynn), an AI-powered fina
 ## Let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/apuroop-m-62831723/)
+- EMail : apuroop@gmail.com
 
 ---
 
