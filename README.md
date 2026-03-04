@@ -24,6 +24,7 @@ I'm the creator of [FYNN](https://github.com/ApuroopM1/fynn), an AI-powered fina
 ## Tech I build with
 
 `Claude API` `OpenAI API` `Python` `Streamlit` `Pandas` `Prompt Engineering` `RAG` `LangChain` `SQL` `CSV/XLSX Processing`
+My Latest innovation which is actually a pain point for SMB's and Freelancers. https://github.com/ApuroopM1/Fynn.AI
 
 ## Let's connect
 
