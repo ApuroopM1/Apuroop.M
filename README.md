@@ -1,109 +1,139 @@
 <div align="center">
 
+<img src="assets/profile.png" alt="Apuroop Mummaneni" width="160" />
+
+<br>
+
 # Apuroop Mummaneni
 
-### Your AI pilots aren't reaching production. I fix that.
+**Product Leader · AI Builder · Platform Thinker**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apuroop-m-62831723/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apuroop@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vep-orchestration-prototype.vercel.app)
+*Your AI pilots aren't reaching production. I fix that.*
 
----
+<br>
 
-**16+ years of turning platform chaos into products people actually adopt.**
-**Now doing it with AI — and building the stack myself.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apuroop-m-62831723/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/apuroop@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:apuroop@gmail.com)
+&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/+91_9701822424-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919701822424)
 
 </div>
 
 <br>
 
-## The Pattern
-
-Every company I've joined had the same problem — too many systems, too many stakeholders, and users stuck in the middle. I fix that. I've done it across telecom, IoT, payments, and HCM. AI is the most powerful tool I've ever had for solving this class of problem.
-
-> *79% of enterprises are struggling with AI adoption right now. Only 29% are seeing real ROI.*
-> *Not because the models don't work — but because nobody owns the space between "this demos well" and "this runs in production."*
+---
 
 <br>
 
-## What I've Shipped
+### About
+
+Every company I've joined had the same problem — too many systems, too many stakeholders, and users stuck in the middle trying to get something done. I've spent 16+ years fixing that across telecom, IoT, payments, and HCM.
+
+AI is the most powerful tool I've ever had for solving this class of problem. So I went deep — not just managing AI roadmaps, but actually building with the stack. Multi-agent pipelines, RAG, LLM orchestration, vector databases. I build it because I want to know where it breaks, not where a vendor deck says it works.
+
+<br>
+
+> *79% of enterprises are struggling with AI adoption right now. Only 29% are seeing real ROI — not because the models don't work, but because nobody owns the space between "this demos well" and "this runs in production."*
+
+<br>
+
+---
+
+<br>
+
+### What I've Shipped
+
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 TrueScore
-**AI Resume Intelligence Platform**
+#### TrueScore
 
-5-agent agentic pipeline that replaces keyword-based ATS screening with semantic understanding.
+AI resume intelligence platform — replaces keyword-based ATS screening with semantic understanding.
 
-`±3 point` scoring consistency · `$0.08/scan` unit economics · `97%+` gross margin
+5-agent agentic pipeline · Zero-persistence privacy architecture
+`±3 pt` consistency &nbsp; `$0.08/scan` &nbsp; `97%+ margin`
 
-Zero-persistence privacy architecture — resumes processed in-memory, never stored.
+Solo-built, end to end.
 
-**Solo-built, end to end.**
+<sub>
 
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+
+</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔷 FYNN
-**AI Revenue Intelligence for SMBs**
+#### FYNN
 
-Built independently — then Intuit entered the same space with a similar thesis.
+AI revenue intelligence for Indian SMBs — detects revenue leaks and guides financial decisions.
 
-✅ Validated in **Intuit's Sandbox environment**
-✅ Product instincts confirmed by a **$180B company**
-✅ Made the strategic call to **move on, not compete**
+Built independently. Then Intuit entered the same space with a similar thesis. Validated in **Intuit's Sandbox**. Made the strategic call to move on.
 
-That's not a failure. That's product judgment.
+Product instincts confirmed by a $180B company.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ApuroopM1/Fynn.AI)
+[`View Repo →`](https://github.com/ApuroopM1/Fynn.AI)
+
+<sub>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+
+</sub>
 
 </td>
 </tr>
 </table>
+
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 VEP Orchestration Prototype
-**Confidence-Based Routing Engine**
+#### VEP Orchestration Prototype
 
-Built for Intuit's Virtual Expert Platform — determines when AI handles a query vs. when to route to a human expert.
+Confidence-based routing engine for Intuit's Virtual Expert Platform. Determines when AI can handle a query vs. when to route to a human expert.
 
-Instead of submitting a slide deck for a GPM role, **I shipped working code.**
+Instead of submitting a slide deck, I shipped working code.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://vep-orchestration-prototype.vercel.app)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ApuroopM1/vep-orchestration-prototype)
+[`Live Demo →`](https://vep-orchestration-prototype.vercel.app) &nbsp;&nbsp; [`View Repo →`](https://github.com/ApuroopM1/vep-orchestration-prototype)
+
+<sub>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+
+</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔷 VaadNivaaran *(In Progress)*
-**AI-Native Legal Information Platform**
+#### VaadNivaaran &nbsp; `in progress`
 
-Covering all dispute categories across India — 12 categories, 60+ dispute types.
+AI-native legal information platform for India.
 
-5-agent agentic pipeline · BCI Rule 36 compliant · Three revenue streams
+12 dispute categories · 60+ dispute types · 5-agent pipeline
+BCI Rule 36 compliant · Three revenue streams
 
 Currently in architecture and regulatory research phase.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+<sub>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+
+</sub>
 
 </td>
 </tr>
@@ -111,64 +141,77 @@ Currently in architecture and regulatory research phase.
 
 <br>
 
-## The Enterprise Track Record
-
-| Company | Role | What I Did | Impact |
-|---------|------|-----------|--------|
-| **Verizon** | Principal PM, AI Platforms | Consolidated 14 legacy systems into one unified platform. 100M+ users, 35M DAU. | **$20M OPEX savings · 90%+ voluntary adoption** |
-| **Hitachi Vantara** | Product Manager | Defined roadmap for IoT Smart Spaces platform on GCP. | **50K devices · 2M+ events/day** |
-| **Accenture** | Product Manager | Built API-driven payment platforms across 12 enterprise clients. | **$2.4B+ transactions processed** |
+---
 
 <br>
 
-## Tech Stack
+### Enterprise Track Record
+
+<br>
+
+| | Company | What I Did | Impact |
+|---|---------|-----------|--------|
+| 🔹 | **Verizon** · Principal PM | Consolidated 14 legacy systems → one unified AI platform. 100M+ users, 35M DAU. | `$20M OPEX savings` · `90%+ voluntary adoption` |
+| 🔹 | **Hitachi Vantara** · PM | IoT Smart Spaces platform on GCP. Concept to production. | `50K devices` · `2M+ events/day` |
+| 🔹 | **Accenture** · PM | API-driven payment platforms across 12 enterprise clients. | `$2.4B+ transactions` |
+
+<br>
+
+---
+
+<br>
+
+### Tech I Build With
+
+<br>
 
 <div align="center">
 
-**AI & LLM**
+`Claude API` · `OpenAI API` · `LangChain` · `RAG Pipelines` · `Vector DBs`
 
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+`Next.js` · `Python` · `TypeScript` · `Supabase` · `Streamlit`
 
-**Building & Shipping**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Data & Infrastructure**
-
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-4A154B?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+`Vercel` · `GCP` · `Prompt Engineering` · `Agentic AI`
 
 </div>
 
 <br>
 
-## How I Think About Building
+---
 
-```
-Most PMs manage AI from a slide deck.
-I manage it from the codebase.
+<br>
 
-The PM who understands where the technology actually breaks
-makes fundamentally different product decisions
-than the PM reading someone else's status update.
-```
+### How I Think About Building
+
+<br>
+
+<div align="center">
+
+*Most PMs manage AI from a slide deck.*
+*I manage it from the codebase.*
+
+*The PM who understands where the technology actually breaks*
+*makes fundamentally different product decisions*
+*than the PM reading someone else's status update.*
+
+</div>
 
 <br>
 
 ---
+
+<br>
 
 <div align="center">
 
 **If your AI strategy looks great on slides but isn't landing in production — that's my kind of problem.**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apuroop-m-62831723/)
+<br>
+
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apuroop-m-62831723/)
+
+<br>
+
+📧 &nbsp; apuroop@gmail.com &nbsp;&nbsp; · &nbsp;&nbsp; 📱 &nbsp; +91 9701822424 &nbsp;&nbsp; · &nbsp;&nbsp; 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/apuroop-m-62831723/)
 
 </div>
