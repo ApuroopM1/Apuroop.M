@@ -6,15 +6,11 @@
 
 # Apuroop Mummaneni
 
-**Product Leader &nbsp;·&nbsp; AI Platforms at 100M+ user scale &nbsp;·&nbsp; Hands-on Builder**
+**Product Leader** &nbsp;·&nbsp; **AI Platforms at 100M+ user scale** &nbsp;·&nbsp; **Hands-on Builder**
 
-<br>
-
-*Every company I've joined had the same problem — too many systems,*
-*too many stakeholders, and users stuck in the middle.*
-*I fix that. Now doing it with AI.*
-
-<br>
+I've spent 16+ years walking into fragmented enterprise platforms, aligning the people
+and systems around them, and shipping the product that replaces the chaos.
+AI is the most powerful tool I've ever had for this — and I build with it myself.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apuroop-m-62831723/)
 &nbsp;
@@ -24,160 +20,112 @@
 
 </div>
 
-<br>
-
 ---
 
-<br>
+### The Pattern
 
-### About
+Every company I've joined had the same underlying problem — too many systems, competing stakeholders, and users paying the cost. Whether it was 14 legacy platforms at Verizon, an IoT product at Hitachi that needed to scale from concept to 50K devices, or payment workflows at Accenture that took 6 weeks to onboard a client — the mess looked different each time, but the fix was always the same: find the real friction, align the right people, and ship what replaces the chaos.
 
-I've spent 16+ years walking into fragmented enterprise platforms, aligning the people and systems around them, and shipping the product that replaces the chaos — across telecom, IoT, payments, lending, and HCM.
-
-AI is the most powerful tool I've ever had for this class of problem. So I went deep — not just managing AI roadmaps, but building with the stack myself. Multi-agent pipelines, RAG, LLM orchestration, vector databases. I build it because I want to know where it breaks, not where a vendor deck says it works.
-
-<br>
-
-> *79% of enterprises are struggling with AI adoption. Only 29% see real ROI — not because the models don't work, but because nobody owns the space between "this demos well" and "this runs in production."*
-
-<br>
+79% of enterprises are now struggling with AI adoption. Only 29% see real ROI. The models work — but nobody owns the gap between *"this demos well"* and *"this runs in production and people actually use it."* That's the gap I've spent my career closing.
 
 ---
-
-<br>
 
 ### What I've Shipped
 
-<br>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### TrueScore &nbsp; `live`
+**TrueScore** &nbsp; · &nbsp; `live`
 
-**AI Resume Intelligence Platform**
+AI resume intelligence platform — 5-agent agentic pipeline replacing keyword-based ATS screening with semantic understanding. Solo-launched to address the $3.3B ATS market where 88% of employers reject qualified candidates.
 
-Solo-launched to disrupt the $3.3B ATS market where 88% of employers reject qualified candidates. 5-agent agentic pipeline replaces keyword-based screening with semantic understanding.
+± 3 pt consistency &nbsp;·&nbsp; $0.08/scan &nbsp;·&nbsp; 97%+ gross margin
 
-`±3 pt consistency` &nbsp; `$0.08/scan` &nbsp; `97%+ gross margin`
+Zero-persistence privacy architecture. Dual-revenue GTM targeting B2B agencies and 250M+ job seekers. Solo-built, end to end.
 
-Zero-persistence privacy architecture — resumes processed in-memory, never stored. Dual-revenue GTM: B2B agency plans + B2C freemium flywheel (250M+ addressable job seekers).
-
-**Solo-built, end to end.**
-
-<sub>
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-</sub>
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### FYNN &nbsp; `validated`
+**FYNN** &nbsp; · &nbsp; `validated`
 
-**AI Revenue Intelligence for SMBs**
+AI revenue intelligence for Indian SMBs — detects revenue leaks from accounting and bank statement data, guides next financial steps.
 
-Built an AI financial health advisor that sits on top of accounting and bank statements, detects revenue leaks, and guides next financial steps for Indian SMBs and freelancers.
+Built independently. Then Intuit entered the same space with an identical thesis. Validated in **Intuit's Sandbox environment**. Made the strategic call to move on rather than compete with a $180B company.
 
-Built independently — then Intuit entered the same space with a similar thesis. Validated in **Intuit's Sandbox environment**. Made the strategic call to move on rather than compete with a $180B company.
-
-**That's not a failure. That's product judgment.**
+Product instincts confirmed. That's product judgment, not failure.
 
 [`View Repo →`](https://github.com/ApuroopM1/Fynn.AI)
 
-<sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-</sub>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
 </tr>
 </table>
-
-<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### VEP Orchestration Prototype &nbsp; `live`
+**VEP Orchestration Prototype** &nbsp; · &nbsp; `live`
 
-**Confidence-Based Routing Engine**
+Confidence-based routing engine for Intuit's Virtual Expert Platform. Scores query confidence in real time and routes between AI and human experts.
 
-Built for Intuit's Virtual Expert Platform — a decision engine that determines when AI can handle a query vs. when to route to a human expert, using confidence scoring and contextual signals.
+Instead of submitting a slide deck for a GPM role, I shipped working code.
 
-Instead of submitting a slide deck for a GPM role, **I shipped working code.**
+[`Live Demo →`](https://vep-orchestration-prototype.vercel.app) &nbsp; [`View Repo →`](https://github.com/ApuroopM1/vep-orchestration-prototype)
 
-[`Live Demo →`](https://vep-orchestration-prototype.vercel.app) &nbsp;&nbsp; [`View Repo →`](https://github.com/ApuroopM1/vep-orchestration-prototype)
-
-<sub>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-</sub>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### VaadNivaaran &nbsp; `in progress`
+**VaadNivaaran** &nbsp; · &nbsp; `in progress`
 
-**AI-Native Legal Information Platform**
+AI-native legal information platform for India. 250M+ Indians face legal disputes annually — most get outdated information or a lawyer's sales pitch.
 
-Designing an AI-powered legal information system for India covering all dispute categories — 12 categories, 60+ dispute types, 250M+ Indians facing legal disputes annually.
+12 dispute categories · 60+ dispute types · 5-agent pipeline · BCI Rule 36 compliant · Three revenue streams.
 
-5-agent agentic pipeline · BCI Rule 36 compliant (no lawyer marketplace) · Three revenue streams: consumer transactions, lawyer SaaS, B2B API.
+Currently in architecture and regulatory research.
 
-Currently in architecture and regulatory research phase.
-
-<sub>
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-</sub>
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
 
 </td>
 </tr>
 </table>
-
-<br>
 
 ---
 
-<br>
-
 ### Enterprise Track Record
 
+**Verizon Communications** &nbsp;·&nbsp; Principal Product Manager, AI Platforms &nbsp;·&nbsp; `2021–2025`
+
+Led enterprise AI/ML product strategy across CX, marketing, and service operations — 100M+ users, 15-person PM/UX org. Consolidated 14 legacy systems into a unified platform (35M DAU, 120M+ transactions/day). Built AI decisioning systems, experimentation frameworks, and drove GenAI adoption across business units.
+
+$20M OPEX savings &nbsp;·&nbsp; 90%+ voluntary adoption &nbsp;·&nbsp; NPS +22 &nbsp;·&nbsp; CSAT +13 &nbsp;·&nbsp; FCR +16 pts &nbsp;·&nbsp; AHT −35% &nbsp;·&nbsp; 62% GenAI adoption &nbsp;·&nbsp; $10M investment secured
+
 <br>
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-#### Verizon Communications &nbsp;·&nbsp; Principal Product Manager, AI Platforms
-`Aug 2021 – May 2025` &nbsp; · &nbsp; `100M+ users` &nbsp; · &nbsp; `15-person PM/UX org`
+**Verizon Data Services** &nbsp;·&nbsp; Senior PM &nbsp;·&nbsp; `2020–2021`
 
-Consolidated 14 legacy systems into a single unified AI platform — 35M DAU, 120M+ transactions/day. Led AI decisioning systems (next-best-action, routing, QA automation), experimentation frameworks, and GenAI scale-up across business units.
+AI-driven personalization and experimentation platforms for omnichannel journeys. Predictive modeling for churn and targeting.
 
-`$20M OPEX savings` · `90%+ voluntary adoption` · `NPS +22` · `CSAT +13` · `FCR +16 pts` · `AHT -35%` · `62% GenAI adoption` · `$10M strategic investment secured`
+Campaign performance +45% &nbsp;·&nbsp; Churn −14% &nbsp;·&nbsp; Retention +11%
+
+</td>
+<td width="50%" valign="top">
+
+**Hitachi Vantara** &nbsp;·&nbsp; Product Manager &nbsp;·&nbsp; `2019–2020`
+
+IoT Smart Spaces platform on GCP — smart cities and enterprise facilities. ML-embedded safety systems.
+
+50K devices &nbsp;·&nbsp; 2M+ events/day &nbsp;·&nbsp; Incidents −28%
 
 </td>
 </tr>
@@ -187,151 +135,91 @@ Consolidated 14 legacy systems into a single unified AI platform — 35M DAU, 12
 <tr>
 <td width="50%" valign="top">
 
-#### Verizon Data Services &nbsp;·&nbsp; Senior PM
-`Apr 2020 – Aug 2021`
-
-AI-driven personalization and experimentation platforms for B2C/B2B omnichannel journeys.
-
-`Campaign performance +45%` · `Churn -14%` · `Retention +11%`
-
-</td>
-<td width="50%" valign="top">
-
-#### Hitachi Vantara &nbsp;·&nbsp; Product Manager
-`Jan 2019 – Mar 2020`
-
-IoT Smart Spaces platform on GCP — smart cities and enterprise facilities.
-
-`50K devices` · `2M+ events/day` · `Incidents -28%`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Accenture &nbsp;·&nbsp; Product Manager
-`Jan 2018 – Jan 2019`
+**Accenture** &nbsp;·&nbsp; Product Manager &nbsp;·&nbsp; `2018–2019`
 
 API-first payment gateway and ERP integration for Fortune 500 BFSI clients.
 
-`$2.4B+ transactions` · `12 clients` · `Onboarding 6wks → 2wks`
+$2.4B+ transactions &nbsp;·&nbsp; 12 clients &nbsp;·&nbsp; Onboarding 6wks → 2wks
 
 </td>
 <td width="50%" valign="top">
 
-#### Capgemini &nbsp;·&nbsp; Senior Consultant
-`Aug 2016 – Dec 2017`
+**Capgemini** &nbsp;·&nbsp; Senior Consultant &nbsp;·&nbsp; `2016–2017`
 
 Digital Lending platform for tier-1 banks.
 
-`1M+ daily transactions` · `Adoption +22%` · `Revenue +15%`
+1M+ daily transactions &nbsp;·&nbsp; Adoption +22% &nbsp;·&nbsp; Revenue +15%
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>Earlier Career</b></summary>
+<summary>Earlier Career — Tech Mahindra · Northern Trust</summary>
 <br>
 
-| Company | Role | Period | Highlights |
-|---------|------|--------|------------|
-| **Tech Mahindra** | Associate PM | 2013–2016 | Cloud HCM platform for 100K+ employees · `Adoption +65%` · `NPS +15` |
-| **Northern Trust** | Business Analyst | 2007–2011 | TLM reconciliation migration · Risk controls mitigating `$700M exposure` |
+| Company | Role | Period | Impact |
+|---------|------|--------|--------|
+| **Tech Mahindra** | Associate PM | 2013–2016 | Cloud HCM platform for 100K+ users · Adoption +65% · NPS +15 |
+| **Northern Trust** | Business Analyst | 2007–2011 | TLM reconciliation · Risk controls mitigating $700M exposure |
 
 </details>
 
-<br>
-
 ---
-
-<br>
 
 ### Tech Stack
 
-<br>
-
 <div align="center">
-
-**AI & LLM**
 
 ![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
 ![Vector DBs](https://img.shields.io/badge/Vector_DBs-4A154B?style=for-the-badge)
 
-**Application & Infrastructure**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Data & Platform**
-
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-000?style=for-the-badge&logo=posthog&logoColor=white)
 
 </div>
 
-<br>
-
 ---
 
-<br>
-
-### Education & Certifications
+### Education & Credentials
 
 <div align="center">
 
-🎓 &nbsp; **MBA** — GITAM University &nbsp;&nbsp;·&nbsp;&nbsp; **BBM** — Andhra University
+**MBA** — GITAM University &nbsp;&nbsp;·&nbsp;&nbsp; **BBM** — Andhra University
 
-📜 &nbsp; Certified Scrum Master &nbsp;&nbsp;·&nbsp;&nbsp; SAFe PO/PM &nbsp;&nbsp;·&nbsp;&nbsp; Certified Scrum Product Owner
+Certified Scrum Master &nbsp;&nbsp;·&nbsp;&nbsp; SAFe PO/PM &nbsp;&nbsp;·&nbsp;&nbsp; CSPO
 
 </div>
 
-<br>
-
 ---
-
-<br>
-
-### How I Think About Building
-
-<br>
 
 <div align="center">
 
-*Most PMs manage AI from a slide deck.*
-*I manage it from the codebase.*
+<br>
+
+*Most PMs manage AI from a slide deck. I manage it from the codebase.*
 
 *The PM who understands where the technology actually breaks*
-*makes fundamentally different product decisions*
-*than the PM reading someone else's status update.*
-
-</div>
+*makes fundamentally different decisions than the PM reading someone else's status update.*
 
 <br>
-
----
-
-<br>
-
-<div align="center">
 
 **If your AI strategy looks great on slides but isn't landing in production — that's my kind of problem.**
 
 <br>
 
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apuroop-m-62831723/)
-
-<br>
+[![Let's Connect](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apuroop-m-62831723/)
 
 📧 &nbsp; apuroop@gmail.com &nbsp;&nbsp;·&nbsp;&nbsp; 📱 &nbsp; +91 9701822424 &nbsp;&nbsp;·&nbsp;&nbsp; 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/apuroop-m-62831723/)
 
