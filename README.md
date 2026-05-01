@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.png" alt="Apuroop Mummaneni" width="150" />
+<img src="profile.png" alt="Apuroop Mummaneni" width="150" />
 
 <br>
 
