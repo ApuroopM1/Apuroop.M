@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.png" alt="Apuroop Mummaneni" width="150" />
+<img width="1345" height="1348" alt="Image" src="https://github.com/user-attachments/assets/cb5eadec-e532-4ef2-b7ad-2233cd01c862" />
 
 <br>
 
