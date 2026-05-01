@@ -8,9 +8,8 @@
 
 **Product Leader** &nbsp;·&nbsp; **AI Platforms at 100M+ user scale** &nbsp;·&nbsp; **Hands-on Builder**
 
-I've spent 16+ years walking into fragmented enterprise platforms, aligning the people
-and systems around them, and shipping the product that replaces the chaos.
-AI is the most powerful tool I've ever had for this — and I build with it myself.
+I build enterprise platforms that unify fragmented systems, drive adoption at scale,
+and deliver measurable business outcomes — and I build with the AI stack myself.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apuroop-m-62831723/)
 &nbsp;
@@ -22,11 +21,15 @@ AI is the most powerful tool I've ever had for this — and I build with it myse
 
 ---
 
-### The Pattern
+### What I Do
 
-Every company I've joined had the same underlying problem — too many systems, competing stakeholders, and users paying the cost. Whether it was 14 legacy platforms at Verizon, an IoT product at Hitachi that needed to scale from concept to 50K devices, or payment workflows at Accenture that took 6 weeks to onboard a client — the mess looked different each time, but the fix was always the same: find the real friction, align the right people, and ship what replaces the chaos.
+I build enterprise platforms that unify fragmented systems, drive adoption at scale, and deliver measurable business outcomes. I've done this across telecom, IoT, payments, lending, and HCM — each time inheriting complexity and shipping simplicity.
 
-79% of enterprises are now struggling with AI adoption. Only 29% see real ROI. The models work — but nobody owns the gap between *"this demos well"* and *"this runs in production and people actually use it."* That's the gap I've spent my career closing.
+At Verizon, that meant taking 14 disconnected platforms and building a single AI-powered system that 100M+ users actually adopted — not because it was mandated, but because it was better. At Hitachi, it meant defining the product roadmap for an IoT platform and scaling it from concept to 50K devices processing 2M+ events daily. At Accenture, it meant architecting API-first payment infrastructure that cut client onboarding from 6 weeks to 2.
+
+The thread across all of it: I identify where platform fragmentation is costing the business, I build what replaces it, and I drive the organizational alignment needed to get it into production and adopted at scale.
+
+What's evolved in the last few years is that AI has become central to how I build. I've gone hands-on — solo-shipping agentic systems using multi-agent pipelines, RAG, LLM orchestration, and vector databases — because taking AI from concept to production at enterprise scale requires a PM who understands the technology deeply enough to make the right tradeoffs, not just manage the roadmap.
 
 ---
 
@@ -102,7 +105,7 @@ Currently in architecture and regulatory research.
 
 **Verizon Communications** &nbsp;·&nbsp; Principal Product Manager, AI Platforms &nbsp;·&nbsp; `2021–2025`
 
-Led enterprise AI/ML product strategy across CX, marketing, and service operations — 100M+ users, 15-person PM/UX org. Consolidated 14 legacy systems into a unified platform (35M DAU, 120M+ transactions/day). Built AI decisioning systems, experimentation frameworks, and drove GenAI adoption across business units.
+Led enterprise AI/ML product strategy across CX, marketing, and service operations — 100M+ users, 15-person PM/UX org. Built a unified platform from 14 legacy systems (35M DAU, 120M+ transactions/day). Designed AI decisioning systems, experimentation frameworks, and scaled GenAI adoption across business units.
 
 $20M OPEX savings &nbsp;·&nbsp; 90%+ voluntary adoption &nbsp;·&nbsp; NPS +22 &nbsp;·&nbsp; CSAT +13 &nbsp;·&nbsp; FCR +16 pts &nbsp;·&nbsp; AHT −35% &nbsp;·&nbsp; 62% GenAI adoption &nbsp;·&nbsp; $10M investment secured
 
